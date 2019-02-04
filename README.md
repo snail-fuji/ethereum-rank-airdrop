@@ -1,7 +1,7 @@
 # ethereum-rank-airdrop
 
 This repository contains materials for an article about genesis generation for [cyberd](https://github.com/cybercongress/cyberd) project.
-- article.ipynb - contains main text of an article (now is untranslated, Russian text here)
+- article.ipynb - contains main text of an article (now is untranslated)
 - ranks-statistical-significance.ipynb - contains process of ranks statistical significance estimation
 - ranks-filtering-process.ipynb - contains process of genesis list reduction
 - genesis-description.ipynb - contains a review of current genesis list
