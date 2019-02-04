@@ -5,4 +5,4 @@ This repository contains materials for an article about genesis generation for [
 - ranks-statistical-significance.ipynb - contains process of ranks statistical significance estimation
 - ranks-filtering-process.ipynb - contains process of genesis list reduction
 - genesis-description.ipynb - contains a review of current genesis list
-- airdrops-connection.ipynb - contains process of finding similarities between described list reduction procedure and active airdrop participants
+- airdrops-connection.ipynb - contains process of finding similarities between described list reduction procedure and airdrop participants activity
